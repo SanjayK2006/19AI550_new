@@ -1,4 +1,4 @@
-# Ex.No: 6  Implementation of Steering behaviour-Pursue and Evade in Unity
+# Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
 ### DATE: 26/04/2025                                                                           
 ### REGISTER NUMBER : 212223220094
 ### NAME : SANJAY K
